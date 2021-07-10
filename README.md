@@ -1,5 +1,4 @@
 # Number_Plate_Recognition
-<h1 align="centre" > Number Plate Recognition using CNN model </h1>
 <br>
 
 <img src = "/HTML/assets/img/c.png">
